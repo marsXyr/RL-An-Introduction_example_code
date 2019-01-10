@@ -1,0 +1,7 @@
+
+This is the first experiment in reinforcement learning class.
+
+The content of this experiment is to learn about MC and Q-Learning and SARSA algorithms, using BlackjackEnv and CliffWalkEnv.
+
+Note:
+    The new version of the matplotlib will have some bugs in the experiment.
