@@ -1,0 +1,6 @@
+
+This is the second experiment in reinforcement learning class
+
+The content of this experiment is to train an atrai game named Breakout_v0, using DQN algorithm. And of course, you can make some
+
+improvements to the DQN algorithm to make the score higher.
